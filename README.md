@@ -27,7 +27,7 @@ The project uses a public dataset sourced from [GitHub](https://github.com/YBI-F
 
 1. Clone the repository:
    ```bash
-   https://github.com/SUDARSHANJADHAV2/Movie-Recommendation-System.git
+   https://github.com/SakshiBiranje/Movie-Recommendation-System.git
    ```
 2. Navigate to the project directory:
    ```bash
